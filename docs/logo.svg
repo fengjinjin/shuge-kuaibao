@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <defs>
+    <linearGradient id="shuge-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3dcb9e" />
+      <stop offset="100%" stop-color="#135746" />
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="56" fill="url(#shuge-bg)" />
+  <g fill="#fff8f4">
+    <rect x="48" y="48" width="76" height="76" rx="16" />
+    <rect x="132" y="48" width="76" height="76" rx="16" />
+    <rect x="48" y="132" width="76" height="76" rx="16" />
+    <rect x="132" y="132" width="76" height="76" rx="16" />
+  </g>
+</svg>
